@@ -1,5 +1,4 @@
-# Evaluation of Solar Panel Integration in Power Control Distribution
- Networks
+# Evaluation of Solar Panel Integration in Power Control Distribution Networks
 
 **Toaza, Jimmy[1,*]** **; Pazmiño, Edwin[2]** **; Quinatoa, Carlos[1]** **; Salazar, Roberto[1]**
 
